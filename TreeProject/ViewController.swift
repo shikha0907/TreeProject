@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("shikha")
-        print("dwarka")
+        print("karman")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
